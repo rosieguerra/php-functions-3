@@ -31,7 +31,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Functional rosie</title>
+    <title>Functional Coffee</title>
     <link rel="stylesheet" href="css/bootstrap.css">
   </head>
   <body class="bg-faded">
